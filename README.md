@@ -36,14 +36,6 @@ A simple, functional calculator built using **HTML**, **CSS**, and **JavaScript*
 
 2. Open the index.html file in any web browser.
 
-📂 Folder Structure
-
-Clucalculator/
- │
- ├── index.html       # Main HTML file
- ├── style.css        # Custom CSS styling
- └── README.md        # Project overview and instructions
-
 
 📅 Created
 This project was originally created in 2021 as a beginner-friendly mini-project. It's a reminder of my early development journey and progress in frontend development.
