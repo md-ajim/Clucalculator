@@ -39,10 +39,10 @@ A simple, functional calculator built using **HTML**, **CSS**, and **JavaScript*
 📂 Folder Structure
 
 Clucalculator/
-│
-├── index.html       # Main HTML file
-├── style.css        # Custom CSS styling
-└── README.md        # Project overview and instructions
+ │
+ ├── index.html       # Main HTML file
+ ├── style.css        # Custom CSS styling
+ └── README.md        # Project overview and instructions
 
 
 📅 Created
